@@ -1,0 +1,30 @@
+[05-Sep-2017 12:18:58 UTC] PHP Fatal error:  Cannot use App\Category_services as Category_services because the name is already in use in /home/mmegas/public_html/prolift/app/Http/Controllers/siteController.php on line 40
+[05-Sep-2017 14:21:27 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/mmegas/public_html/prolift/storage/framework/views/34e00a805ce4c516521226ac2ae453106ed1d9ea.php on line 47
+[07-Sep-2017 06:19:11 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\siteController::Services() in /home/mmegas/public_html/prolift/app/Http/Controllers/siteController.php on line 153
+[07-Sep-2017 08:03:19 UTC] PHP Fatal error:  Class 'App\Category_products' not found in /home/mmegas/public_html/prolift/app/Http/Controllers/AdminController.php on line 438
+[07-Sep-2017 08:16:11 UTC] PHP Fatal error:  Class 'App\Category_services' not found in /home/mmegas/public_html/prolift/app/Http/Controllers/AdminController.php on line 256
+[07-Sep-2017 09:05:27 UTC] PHP Fatal error:  Class 'App\Category_services' not found in /home/mmegas/projects/prolift/app/Http/Controllers/siteController.php on line 67
+[07-Sep-2017 09:21:02 UTC] PHP Fatal error:  Class 'App\Category_services' not found in /home/mmegas/projects/prolift/app/Http/Controllers/siteController.php on line 67
+[07-Sep-2017 09:21:10 UTC] PHP Fatal error:  Class 'App\Category_services' not found in /home/mmegas/projects/prolift/app/Http/Controllers/siteController.php on line 67
+[07-Sep-2017 09:21:31 UTC] PHP Fatal error:  Class 'App\Category_services' not found in /home/mmegas/projects/prolift/app/Http/Controllers/siteController.php on line 67
+[07-Sep-2017 09:22:14 UTC] PHP Fatal error:  Class 'App\Category_services' not found in /home/mmegas/projects/prolift/app/Http/Controllers/siteController.php on line 67
+[07-Sep-2017 09:23:02 UTC] PHP Fatal error:  Class 'App\Category_services' not found in /home/mmegas/projects/prolift/app/Http/Controllers/siteController.php on line 67
+[07-Sep-2017 09:23:20 UTC] PHP Fatal error:  Class 'App\Category_services' not found in /home/mmegas/projects/prolift/app/Http/Controllers/siteController.php on line 67
+[07-Sep-2017 09:24:23 UTC] PHP Fatal error:  Class 'App\Category_services' not found in /home/mmegas/projects/prolift/app/Http/Controllers/siteController.php on line 67
+[07-Sep-2017 09:26:22 UTC] PHP Fatal error:  Class 'App\Category_services' not found in /home/mmegas/projects/prolift/app/Http/Controllers/siteController.php on line 67
+[07-Sep-2017 09:26:29 UTC] PHP Fatal error:  Class 'App\Category_services' not found in /home/mmegas/projects/prolift/app/Http/Controllers/siteController.php on line 67
+[07-Sep-2017 09:26:51 UTC] PHP Fatal error:  Class 'App\Category_services' not found in /home/mmegas/projects/prolift/app/Http/Controllers/siteController.php on line 67
+[07-Sep-2017 09:35:34 UTC] PHP Fatal error:  Class 'App\Category_services' not found in /home/mmegas/projects/prolift/app/Http/Controllers/siteController.php on line 98
+[07-Sep-2017 09:39:17 UTC] PHP Fatal error:  Class 'App\Category_services' not found in /home/mmegas/projects/prolift/app/Http/Controllers/siteController.php on line 175
+[07-Sep-2017 13:29:51 UTC] PHP Fatal error:  Class 'App\Category_products' not found in /home/mmegas/projects/prolift/app/Http/Controllers/AdminController.php on line 369
+[07-Sep-2017 13:30:09 UTC] PHP Fatal error:  Class 'App\Category_products' not found in /home/mmegas/projects/prolift/app/Http/Controllers/AdminController.php on line 369
+[07-Sep-2017 13:30:16 UTC] PHP Fatal error:  Class 'App\Category_products' not found in /home/mmegas/projects/prolift/app/Http/Controllers/AdminController.php on line 369
+[07-Sep-2017 13:59:52 UTC] PHP Fatal error:  Class 'App\Category_products' not found in /home/mmegas/projects/prolift/app/Http/Controllers/AdminController.php on line 369
+[07-Sep-2017 13:59:58 UTC] PHP Fatal error:  Class 'App\Category_products' not found in /home/mmegas/projects/prolift/app/Http/Controllers/AdminController.php on line 369
+[07-Sep-2017 14:07:33 UTC] PHP Fatal error:  Class 'App\Category_services' not found in /home/mmegas/projects/prolift/app/Http/Controllers/AdminController.php on line 985
+[07-Sep-2017 14:08:31 UTC] PHP Fatal error:  Class 'App\Category_services' not found in /home/mmegas/projects/prolift/app/Http/Controllers/AdminController.php on line 985
+[08-Sep-2017 18:42:48 UTC] PHP Fatal error:  Class 'App\Category_products' not found in /home/mmegas/projects/prolift/app/Http/Controllers/AdminController.php on line 369
+[08-Sep-2017 18:43:53 UTC] PHP Fatal error:  Class 'App\Category_services' not found in /home/mmegas/projects/prolift/app/Http/Controllers/AdminController.php on line 985
+[08-Sep-2017 18:49:07 UTC] PHP Fatal error:  Class 'App\Category_products' not found in /home/mmegas/projects/prolift/app/Http/Controllers/AdminController.php on line 369
+[08-Sep-2017 19:57:04 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Category_products' not found in /home/mmegas/projects/prolift/app/Http/Controllers/AdminController.php on line 474
+[10-Sep-2017 10:09:15 UTC] PHP Parse error:  syntax error, unexpected '==' (T_IS_EQUAL) in /home/mmegas/projects/prolift/storage/framework/views/6c782656df02be7f55cbdb1e43fed1cdbd369362.php on line 18
